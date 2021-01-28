@@ -1,2 +1,0 @@
-# lautarotiamat.github.com
-Portofolio
