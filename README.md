@@ -1,2 +1,2 @@
-# lautarotiamat.github.com
+# lautarotiamat.github.io
 Portofolio
