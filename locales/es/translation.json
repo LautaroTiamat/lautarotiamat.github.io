@@ -1,0 +1,89 @@
+{
+    "changeLanguage": "Cambiar Idioma",
+    "home": "Inicio",
+    "about": "Sobre mi",
+    "projects": "Proyectos",
+    "resume": "Resumen",
+
+    "footer-1": "",
+    "footer-2": "Gracias por su visita :D",
+
+    "hi": "Hola!",
+    "im": "SOY",
+    "littleIntroduce1": "PERMÍTAME",
+    "littleIntroduce2": "PRESENTARME",
+    "littleIntroduce3": "",
+
+    "introText-1": "Me enamoré de la programación y al menos he aprendido algo, creo...",
+    "introText-2": "Me encanta aprender sobre",
+    "introText-2-1": "nuevas tecnologías.",
+    "introText-3": "Mi enfoque actual es el",
+    "introText-3-1": "Aprendizaje Profundo",
+    "introText-3-2": "y el",
+    "introText-3-3": "Procesamiento de Lenguajes Naturales.",
+    "introText-4": "Siempre que puedo, también aplico mi pasión por desarrollar productos con",
+    "introText-4-1": "Marcos de JavaScript Modernos",
+    "introText-4-2": "como",
+    "introText-4-3": "Node.js y React.js",
+
+    "findMeOn": "ENCUÉNTRAME EN",
+    "findMeOn2": "Siéntete libre de",
+    "findMeOn21": "conectarte",
+    "findMeOn22": "conmigo",
+
+    "aboutMe-1": "SOBRE",
+    "aboutMe-2": "MI",
+
+    "aboutText-1": "Hola a Todos, soy",
+    "aboutText-1-1": "Rolón Lautaro Emanuel",
+    "aboutText-1-2": "de",
+    "aboutText-1-3": "Formosa, Argentina.",
+    "aboutText-2": "Soy un desarrollador web junior que constantemente busca aprender sobre nuevas tecnologías.",
+    "aboutText-3": "Aparte de la codificación, ¡algunas otras actividades que me encantan!",
+    "aboutText-4": "Jugar Videojuegos",
+    "aboutText-4-1": "Jugar con mis mascotas",
+    "aboutText-4-2": "Ver documentales sobre el cosmos",
+    "aboutText-5": "Declara variables, no guerras",
+
+    "aboutSkill-1": "Habilidades",
+    "aboutSkill-2": "Profesionales",
+
+    "aboutTools-1": "Herramientas",
+    "aboutTools-2": "que utilizo",
+
+    "aboutCode-1": "Días que",
+    "aboutCode-2": "Codifico",
+
+    "projectsText-1": "Mis Trabajos",
+    "projectsText-1-1": "Recientes",
+    "projectsText-2": "Aquí hay algunos proyectos en los que he trabajado recientemente.",
+
+    "projectsProD-1": "El proyecto eSTELAR es una aplicación que está pensada y diseñada para aquellas personas que presenten dificultades como: problemas motrices, falta de visión y otros, facilitando su aprendizaje y como estrategia para los docentes que se les presente dificultad alguna en el desarrollo de la enseñanza y aprendizaje con otros.",
+    "projectsProD-2": "Sistema de gestión académica...",
+    "projectsProD-3": "MyMOMO es un framework que permite a sus usuarios desarrollar, maquetar y diseñar aplicaciones web responsivas en la nube.",
+
+    "projectCardText-1": "Ver Blog",
+    "projectCardText-2": "Ver Proyecto",
+
+    "downloadCV": "Descargar CV",
+    "present": "Presente",
+
+    "resumeText-1": "Experiencia",
+    "resumeExp-1": "Administración y Actualización de Datos [EPES N°1 MEIB Namqom Formosa]",
+    "resumeExp-2": "eSTELAR [Polo Científico y Tecnológico de Innovación]",
+    "resumeExp-2-1": "Trabajé en la creación del frontend-end y back-end del sitio web usando MaterialUI y el stack MERNG.",
+
+    "extCurrActText-1": "Actividades Extracurriculares",
+    "extCurrActExp-1": "MyMOMO [Proyecto Personal]",
+    "extCurrActExp-1-1": "Operado en el desarrollo del frontend y backend de la aplicación web usando el stack MERNG y Blueprint.",
+
+    "educationText-1": "Educación",
+    "educationExp-1": "Profesorado en Geografía [UNAF]",
+    "educationExp-2": "Especialización Tecnológica en Desarrollo de Software [Polo Científico y Tecnológico de Innovación]",
+
+    "trainingText-1": "Capacitaciones",
+    "trainingExp-1": "Curso de Introducción al Desarrollo Web: HTML y CSS (Parte 1)",
+    "trainingExp-2": "Curso de Introducción al Desarrollo Web: HTML y CSS (Parte 2)",
+    "trainingExp-3": "Productividad Personal",
+    "trainingExp-4": "Protege tu Negocio: Ciberseguridad en el Teletrabajo"
+}
