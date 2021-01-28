@@ -1,0 +1,89 @@
+{
+    "changeLanguage": "Change Language",
+    "home": "Home",
+    "about": "About me",
+    "projects": "Projects",
+    "resume": "Resume",
+
+    "footer-1": "",
+    "footer-2": "Thanks for your visit :D",
+
+    "hi": "Hi There!",
+    "im": "I'M",
+    "littleIntroduce1": "LET ME",
+    "littleIntroduce2": "INTRODUCE",
+    "littleIntroduce3": "MYSELF",
+
+    "introText-1": "I fell in love with programming and I have at least learned something, I think…",
+    "introText-2": "I love learning about",
+    "introText-2-1": "new technologies.",
+    "introText-3": "My current focus is on",
+    "introText-3-1": "Deep Learning",
+    "introText-3-2": "and",
+    "introText-3-3": "Natural Language Processing.",
+    "introText-4": "Whenever possible, I also apply my passion for developing products with",
+    "introText-4-1": "Modern Javascript Frameworks",
+    "introText-4-2": "like",
+    "introText-4-3": "Node.js and React.js",
+
+    "findMeOn": "FIND ME ON",
+    "findMeOn2": "Feel free to",
+    "findMeOn21": "connect",
+    "findMeOn22": "with me",
+
+    "aboutMe-1": "ABOUT",
+    "aboutMe-2": "ME",
+
+    "aboutText-1": "Hi Everyone, I am",
+    "aboutText-1-1": "Rolón Lautaro Emanuel",
+    "aboutText-1-2": "from",
+    "aboutText-1-3": "Formosa, Argentina.",
+    "aboutText-2": "I am a junior web developer constantly looking to learn about new technologies.",
+    "aboutText-3": "Apart from coding, some other activities that I love to do!",
+    "aboutText-4": "Play Video Games",
+    "aboutText-4-1": "Play with my pets",
+    "aboutText-4-2": "Watch documentaries about the cosmos",
+    "aboutText-5": "Declare variables, not wars",
+
+    "aboutSkill-1": "Professional",
+    "aboutSkill-2": "Skillset",
+
+    "aboutTools-1": "Tools",
+    "aboutTools-2": "I use",
+
+    "aboutCode-1": "Days I",
+    "aboutCode-2": "Code",
+
+    "projectsText-1": "My Recent",
+    "projectsText-1-1": "Works",
+    "projectsText-2": "Here are a few projects I've worked on recently.",
+
+    "projectsProD-1": "The eSTELAR project is an application that is thought and designed for those who have difficulties such as: motor problems, lack of vision and others, facilitating their learning and as a strategy for teachers who have any difficulty in the development of teaching and learning with others.",
+    "projectsProD-2": "Academic management system...",
+    "projectsProD-3": "MyMOMO is a framework that allows its users to develop, layout and design responsive web applications in the cloud.",
+
+    "projectCardText-1": "View Blog",
+    "projectCardText-2": "View Project",
+
+    "downloadCV": "Download CV",
+    "present": "Present",
+
+    "resumeText-1": "Experience",
+    "resumeExp-1": "Data Management and Update [EPES N°1 MEIB Namqom Formosa]",
+    "resumeExp-2": "eSTELAR [Scientific and Technological Innovation Pole]",
+    "resumeExp-2-1": "I worked on creating the frontend-end and back-end of the website using MaterialUI and the MERNG stack.",
+
+    "extCurrActText-1": "Extracurricular Activities",
+    "extCurrActExp-1": "MyMOMO [Personal Project]",
+    "extCurrActExp-1-1": "Operated in the development of the frontend and backend of the web application using the MERNG stack and Blueprint.",
+
+    "educationText-1": "Education",
+    "educationExp-1": "Teacher Training in Geography [UNAF]",
+    "educationExp-2": "Technological Specialization in Software Development [Scientific and Technological Innovation Pole]",
+
+    "trainingText-1": "Trainings",
+    "trainingExp-1": "Introduction to Web Development Course: HTML and CSS (Part 1)",
+    "trainingExp-2": "Introduction to Web Development Course: HTML and CSS (Part 2)",
+    "trainingExp-3": "Personal Productivity",
+    "trainingExp-4": "Protect your Business: Cybersecurity in Teleworking"
+}
